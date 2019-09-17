@@ -278,4 +278,5 @@ plot(gapminder07$gdpPercap,gapminder07$lifeExp,main="Scatterplot of Life Expecta
 
 plot(gapminder07$gdpPercap,gapminder07$lifeExp,main="Scatterplot of Life Expectancy and GDP per Capita")+abline(a=55,b=0.001)
 ##git
-
+## test1
+##test2
